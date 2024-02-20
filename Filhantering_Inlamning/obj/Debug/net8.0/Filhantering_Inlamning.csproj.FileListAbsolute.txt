@@ -1,0 +1,14 @@
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\bin\Debug\net8.0\Filhantering_Inlamning.exe
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\bin\Debug\net8.0\Filhantering_Inlamning.deps.json
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\bin\Debug\net8.0\Filhantering_Inlamning.runtimeconfig.json
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\bin\Debug\net8.0\Filhantering_Inlamning.dll
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\bin\Debug\net8.0\Filhantering_Inlamning.pdb
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.AssemblyInfoInputs.cache
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.AssemblyInfo.cs
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.csproj.CoreCompileInputs.cache
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.dll
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\refint\Filhantering_Inlamning.dll
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.pdb
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\Filhantering_Inlamning.genruntimeconfig.cache
+C:\Users\ErikA\source\repos\Filhantering_Inlamning\obj\Debug\net8.0\ref\Filhantering_Inlamning.dll
