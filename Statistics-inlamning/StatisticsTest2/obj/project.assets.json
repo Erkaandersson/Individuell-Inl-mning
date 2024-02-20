@@ -5526,8 +5526,8 @@
     },
     "Statistics/1.0.0": {
       "type": "project",
-      "path": "../../../Users/ErikA/Desktop/Statistics/Statistics.csproj",
-      "msbuildProject": "../../../Users/ErikA/Desktop/Statistics/Statistics.csproj"
+      "path": "../Statistics/Statistics.csproj",
+      "msbuildProject": "../Statistics/Statistics.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5546,11 +5546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Webbutvecklare\\Fördjupning programmering\\StatisticsTest2\\StatisticsTest2.csproj",
+      "projectUniqueName": "C:\\Users\\ErikA\\Desktop\\Statistics-inlamning\\StatisticsTest2\\StatisticsTest2.csproj",
       "projectName": "StatisticsTest2",
-      "projectPath": "C:\\Webbutvecklare\\Fördjupning programmering\\StatisticsTest2\\StatisticsTest2.csproj",
+      "projectPath": "C:\\Users\\ErikA\\Desktop\\Statistics-inlamning\\StatisticsTest2\\StatisticsTest2.csproj",
       "packagesPath": "C:\\Users\\ErikA\\.nuget\\packages\\",
-      "outputPath": "C:\\Webbutvecklare\\Fördjupning programmering\\StatisticsTest2\\obj\\",
+      "outputPath": "C:\\Users\\ErikA\\Desktop\\Statistics-inlamning\\StatisticsTest2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5572,8 +5572,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ErikA\\Desktop\\Statistics\\Statistics.csproj": {
-              "projectPath": "C:\\Users\\ErikA\\Desktop\\Statistics\\Statistics.csproj"
+            "C:\\Users\\ErikA\\Desktop\\Statistics-inlamning\\Statistics\\Statistics.csproj": {
+              "projectPath": "C:\\Users\\ErikA\\Desktop\\Statistics-inlamning\\Statistics\\Statistics.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ErikA\\source\\repos\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj": {}
+    "C:\\Webbutvecklare\\repos\\Individuell-Inl-mning\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ErikA\\source\\repos\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj": {
+    "C:\\Webbutvecklare\\repos\\Individuell-Inl-mning\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ErikA\\source\\repos\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj",
+        "projectUniqueName": "C:\\Webbutvecklare\\repos\\Individuell-Inl-mning\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj",
         "projectName": "Filhantering_Inlamning",
-        "projectPath": "C:\\Users\\ErikA\\source\\repos\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj",
+        "projectPath": "C:\\Webbutvecklare\\repos\\Individuell-Inl-mning\\Filhantering_Inlamning\\Filhantering_Inlamning.csproj",
         "packagesPath": "C:\\Users\\ErikA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ErikA\\source\\repos\\Filhantering_Inlamning\\obj\\",
+        "outputPath": "C:\\Webbutvecklare\\repos\\Individuell-Inl-mning\\Filhantering_Inlamning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

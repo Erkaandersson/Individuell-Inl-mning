@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YeQb4w1nuJ3mEXTeinxyukaVhGYaZMz1XweqoAhnjGAKDG3yyJLJ3ZOjYZEjnT3wadyagbYYWjO6srqJoFqRnw==",
+  "dgSpecHash": "P0m2Jb6DdstRZTgFt3Cfq1rvZC19ylMuhJOVVO7/Yv/YG/bIZXcnHYzFHHdNkYDOLp3+bIFpL3QkYTCYh0WWTA==",
   "success": true,
-  "projectFilePath": "C:\\Webbutvecklare\\Fördjupning programmering\\StatisticsTest2\\StatisticsTest2.csproj",
+  "projectFilePath": "C:\\Users\\ErikA\\Desktop\\Statistics-inlamning\\StatisticsTest2\\StatisticsTest2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ErikA\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ErikA\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
